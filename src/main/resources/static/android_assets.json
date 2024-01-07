@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.crazylabs.crazy_meet",
+      "sha256_cert_fingerprints": [
+        "4E:47:1E:C7:A1:BE:0D:BD:3B:24:61:CB:81:A1:D7:AF:C0:41:0F:60:94:BF:32:44:BD:C1:37:68:42:49:03:0F"
+      ]
+    }
+  }
+]
